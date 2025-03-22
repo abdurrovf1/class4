@@ -1,0 +1,23 @@
+h1{
+	color:red;
+}
+.heading1{
+	background-color:yellow;
+}
+.border{
+	border:6px dashed blue;
+
+}
+#head1{
+	font-size: 50px;
+}
+.box{
+	height: 100px;
+	width:100px;
+
+	background-color: red;
+}
+.box{
+	heihgt:100%; width:100%;
+	background-color: green;
+}
